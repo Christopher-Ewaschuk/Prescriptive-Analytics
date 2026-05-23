@@ -1,0 +1,5 @@
+Generator,Variable Cost $/MWh,Fixed Cost $,Min,Max
+1,50,1000,0,1000
+2,100,0,300,1000
+3,75,100,0,900
+4,65,100,5,1200
